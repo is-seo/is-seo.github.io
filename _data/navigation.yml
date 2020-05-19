@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://github.com/is-seo/is-seo.github.io/blob/master/docs/_pages/about.md
+    url: https://is-seo.github.io/docs/_pages/about.md
   - title: "Category"
-    url: https://github.com/is-seo/is-seo.github.io/blob/master/docs/_pages/category-archive.md
+    url: https://is-seo.github.io/docs/_pages/category-archive.md
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/    
   # - title: "Sample Collections"
