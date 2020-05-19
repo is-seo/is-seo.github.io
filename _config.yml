@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Blog"
+title                    : "Into the data waves"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seo ilshik"
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "니노"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data 기록"
+  avatar           : "https://img1.daumcdn.net/thumb/C100x100.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/4cRm/image/sonqAGdYNr8GbeNGGDbPJJU0W_w.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "분석한 데이터를 정리해 봅니다."
   location         : "Seoul, Korea"
   email            :
   links:
