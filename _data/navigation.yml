@@ -1,11 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: docs/_pages/
+    url: /about/
   - title: "Category"
-    url: docs/_pages/
-  - title: "Tag"
-    url: https://is-seo.github.io/docs/_pages/tag-archive.md
+    url: /categories/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/    
   # - title: "Sample Collections"
