@@ -4,6 +4,8 @@ main:
     url: https://is-seo.github.io/docs/_pages/about.md
   - title: "Category"
     url: https://is-seo.github.io/docs/_pages/category-archive.md
+  - title: "Tag"
+    url: https://is-seo.github.io/docs/_pages/tag-archive.md
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/    
   # - title: "Sample Collections"
