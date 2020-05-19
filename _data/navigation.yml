@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://is-seo.github.io/docs/_pages/about.md
+    url: /about/
   - title: "Category"
-    url: https://is-seo.github.io/docs/_pages/category-archive.md
+    url: /Category/
   - title: "Tag"
     url: https://is-seo.github.io/docs/_pages/tag-archive.md
   # - title: "Quick-Start Guide"
