@@ -94,14 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "니노"
+  name             : "노들"
   avatar           : "https://img1.daumcdn.net/thumb/C100x100.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/4cRm/image/sonqAGdYNr8GbeNGGDbPJJU0W_w.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "분석한 데이터를 정리해 봅니다."
   location         : "Seoul, Korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sisseo2253@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -114,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/is-seo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
